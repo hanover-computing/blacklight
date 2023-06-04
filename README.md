@@ -1,4 +1,4 @@
-# blacklight
+# Blacklight
 > An open platform for analyzing the web
 
 ## Project Goals
